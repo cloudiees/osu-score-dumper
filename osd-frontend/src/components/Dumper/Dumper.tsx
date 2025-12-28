@@ -2,7 +2,7 @@ import { useState, type FormEvent } from "react";
 
 function Dumper() {
     const startDump = () => {
-        fetch()
+        
     }
     return (
         <>
