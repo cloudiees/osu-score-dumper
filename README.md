@@ -35,6 +35,19 @@ An in-depth paragraph about this project and overview of use.
    npm run dev
    ```
 
+## TODO List
+- Implement frontend score dumper interface
+  - Start score dump
+  - Cancel score dump
+  - See status of score dump
+  - Toggles for score dump (recalculate SR)
+- Implement various views accessible via frontend
+  - Sort by SR, pp, acc, only show unique, etc.
+- Make it look pretty 
+  - Note to self: you suck at UI design, use existing libraries and components pls
+- Make this an Electron app
+- Make this a one click run, user should never need to use command line to run this
+
 ## License
 
 This project is licensed under GPL-3.0. See the `LICENSE.txt` file for details
