@@ -37,7 +37,7 @@ An in-depth paragraph about this project and overview of use.
 
 ## License
 
-This project is licensed under the GNU GPLv3  License. See the `LICENSE.md` file for details
+This project is licensed under GPL-3.0. See the `LICENSE.txt` file for details
 
 ## Acknowledgments
 
